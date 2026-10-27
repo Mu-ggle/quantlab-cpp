@@ -1,0 +1,3 @@
+add_executable(quantlab_benchmark analytics_benchmark.cpp)
+target_link_libraries(quantlab_benchmark PRIVATE QuantLab::quantlab benchmark::benchmark)
+quantlab_configure_target(quantlab_benchmark)

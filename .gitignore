@@ -1,0 +1,16 @@
+/build*/
+/tmp/
+/output/
+/local-tools/
+/submission/
+/hw.pdf
+/.vscode/
+/.idea/
+*.user
+*.exe
+*.o
+*.a
+*.obj
+*.lib
+*.log
+__pycache__/
